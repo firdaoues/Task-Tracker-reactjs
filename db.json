@@ -1,10 +1,16 @@
 {
   "tasks": [
     {
-      " id": 2,
+      "id": 2,
       "text": "school",
       "day": "tuesday",
-      "reminder": "false"
+      "reminder": true
+    },
+    {
+      "text": "flmfm",
+      "day": "qf:f,",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
